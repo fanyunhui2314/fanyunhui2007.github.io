@@ -1,0 +1,9 @@
+Origin: fyh2007
+Label: fyh2007
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: fyh2007 Repo
+Icon: file://CydiaIcon.png
