@@ -1,0 +1,11 @@
+Package: fyh2007.htc.weather.effects_1.3_iphoneos-arm.deb
+Section: Widgets
+Maintainer: Fyh2007
+Architecture: iphoneos-arm
+Filename: ./deb_files/fyh2007.htc.weather.effects_1.3_iphoneos-arm.deb
+Version: 1.0
+Depends: firmware (>= 9.0)
+Description: htc.weather
+Name: htc.weather
+Author: Fyh2007
+Md5sum: bd9b8809cda7e57e78ab1e3ae5de3b04
